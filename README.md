@@ -2,7 +2,7 @@
 ## TIL
 - [React Framework](https://github.com/LimEunSeop/TIL-React-Framework)
 - [VanilaJS, ES6](https://github.com/LimEunSeop/Javascript-Book)
-- [[FASTCAMPUS] 야무와 함께하는 프론트엔드 개발 시작하기 CAMP](https://codepen.io/collection/XBRdVK)
+- [Front-end Practices](https://codepen.io/collection/XBRdVK)
 - [생활코딩 Machine Learning 야학](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak)
 
 ## Projects
