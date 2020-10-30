@@ -6,6 +6,7 @@
 
 ## Projects
 - [React Mini Projects](https://github.com/LimEunSeop/React-Mini-Projects)
+- [포트폴리오 사이트 제작](https://github.com/LimEunSeop/limeunseop.github.io)
 
 ## Study 모임
 - [Publishing Study(계획중)](https://github.com/LimEunSeop/Publishing-Study)
