@@ -1,4 +1,9 @@
 # Studies
+
+## Blog
+- [Medium Blog](https://dmstjq92.medium.com)
+- [Naver Blog(대학생 당시)](https://blog.naver.com/dmstjq12)
+
 ## TIL
 - [React Framework](https://github.com/LimEunSeop/TIL-React-Framework)
 - [VanilaJS, ES6](https://github.com/LimEunSeop/Javascript-Book)
