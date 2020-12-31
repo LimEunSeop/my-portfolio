@@ -13,6 +13,7 @@
 ## Projects
 - [React Mini Projects](https://github.com/LimEunSeop/React-Mini-Projects)
 - [포트폴리오 사이트 제작](https://github.com/LimEunSeop/limeunseop.github.io)
+- [바닐라JS로 제작한 기본적인 앱](https://github.com/LimEunSeop/vanilaJS-app)
 
 ## Study 모임
 - [Publishing Study(계획중)](https://github.com/LimEunSeop/Publishing-Study)
