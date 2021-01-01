@@ -24,3 +24,6 @@
 
 ## ZShell 세팅
 준비중
+
+# BoilerPlates
+- [Publishing Note](https://github.com/LimEunSeop/Publishing-Note)
