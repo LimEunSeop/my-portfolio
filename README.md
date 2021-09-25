@@ -15,8 +15,8 @@
 - [포트폴리오 사이트 제작](https://github.com/LimEunSeop/limeunseop.github.io)
 - [바닐라JS로 제작한 기본적인 앱](https://github.com/LimEunSeop/vanilaJS-app)
 
-## Study 모임
-- [Publishing Study(계획중)](https://github.com/LimEunSeop/Publishing-Study)
+<!-- ## Study 모임
+- [Publishing Study(계획중)](https://github.com/LimEunSeop/Publishing-Study) -->
 
 # Settings
 ## MAC OS 커스텀 세팅
