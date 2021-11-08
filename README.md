@@ -26,8 +26,8 @@
 
 ### Design
 
-- [포토샵 연습자료]()
-- [일러스트 연습자료 + 개인작]()
+- [포토샵 연습자료](https://github.com/LimEunSeop/my-portfolio/tree/master/photoshop-portfolio)
+- [일러스트 연습자료 + 개인작](https://github.com/LimEunSeop/my-portfolio/tree/master/illustrator-portfolio)
 
 <!-- ## Study 모임
 - [Publishing Study(계획중)](https://github.com/LimEunSeop/Publishing-Study) -->
