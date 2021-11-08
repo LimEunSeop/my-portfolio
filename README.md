@@ -19,6 +19,7 @@
 - [React Mini Projects](https://github.com/LimEunSeop/React-Mini-Projects)
 - [포트폴리오 사이트 제작](https://github.com/LimEunSeop/limeunseop.github.io)
 - [바닐라JS로 제작한 기본적인 앱](https://github.com/LimEunSeop/vanilaJS-app)
+- [퍼블리싱 프로젝트](https://github.com/LimEunSeop/Publishing-Projects-Index)
 
 ### Full-stack
 
