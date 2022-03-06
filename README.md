@@ -8,7 +8,7 @@
 ## TIL
 
 - [React Framework - EUID](https://github.com/LimEunSeop/TIL-React-Framework)
-- [드림코딩 프론트엔드 과정](https://academy.dream-coding.com/)
+- [드림코딩 프론트엔드 과정](https://github.com/LimEunSeop/TIL-Dream-Coding)
 - [VanilaJS, ES6](https://github.com/LimEunSeop/Javascript-Book)
 - [Front-end Practices](https://codepen.io/collection/XBRdVK)
 - [생활코딩 Machine Learning 야학](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak)
