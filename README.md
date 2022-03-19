@@ -5,7 +5,7 @@
 
 # Studies
 
-## Read Documentationa
+## Read Documentations
 - [Webpack](https://webpack.js.org/concepts/)
 
 ## TIL
