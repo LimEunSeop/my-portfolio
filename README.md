@@ -7,6 +7,7 @@
 
 ## Read Documentations (Entire Concepts or Guides)
 - [Webpack](https://webpack.js.org/concepts/)
+- [RxJS](https://rxjs.dev/guide/overview)
 
 ## TIL
 
@@ -18,6 +19,7 @@
 
 ## Blog
 
+- [Velog](https://velog.io/@seop)
 - [Medium Blog](https://dmstjq92.medium.com)
 - [Naver Blog(대학생 당시)](https://blog.naver.com/dmstjq12)
 
