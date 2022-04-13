@@ -8,6 +8,7 @@
 ## Read Documentations (Entire Concepts or Guides)
 - [Webpack](https://webpack.js.org/concepts/)
 - [RxJS](https://rxjs.dev/guide/overview)
+- [Recoil]](https://recoiljs.org/docs/introduction/motivation)
 
 ## TIL
 
