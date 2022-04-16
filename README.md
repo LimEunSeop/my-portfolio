@@ -6,11 +6,16 @@
 # Studies
 
 ## Read Documentations (Entire Concepts or Guides)
+
+짜투리 시간을 활용하여 지속적으로 배경지식의 Range를 넓혀가고 있습니다.
+
 - [Webpack](https://webpack.js.org/concepts/)
 - [RxJS](https://rxjs.dev/guide/overview)
 - [Recoil](https://recoiljs.org/docs/introduction/motivation)
 
 ## TIL
+
+배경지식이 부족한 새로운 기술을 학습할 때에는 TIL 챌린지를 통해 해당 기술에 온보딩 하는 편이며, 1일 1커밋의 소재로도 활용하고 있습니다.
 
 - [TDD 개발 방법론](https://github.com/LimEunSeop/TIL-TestCoding)
 - [React Framework - EUID](https://github.com/LimEunSeop/TIL-React-Framework)
@@ -20,11 +25,15 @@
 
 ## Blog
 
+모든 지식을 항상 기록해두는 시간은 현실적으로 부족하다고 생각합니다. 웬만하면 노션에 간단히 Indexing 하되, 정말 깊은 고민을 통해 학습해야될 필요가 있는 지식은 블로그를 활용합니다.
+
 - [Velog](https://velog.io/@seop)
 - [Medium Blog](https://dmstjq92.medium.com)
 - [Naver Blog(대학생 당시)](https://blog.naver.com/dmstjq12)
 
 ## Projects
+
+공부한 지식들을 실제 프로젝트를 해 가며 활용하려고 노력하고 있습니다.
 
 ### Front-end
 
@@ -49,6 +58,8 @@
 
 # Settings
 
+잠깐의 고생으로 평생의 이득을 취한다. 제가 개발자로서 툴 테크닉을 사랑하고 환경을 꾸준히 개선해 나가고자 하는 이유입니다. 앞으로도 지속적으로 이러한 고민을 이어나가겠습니다.
+
 ## MAC OS 커스텀 세팅
 
 - [hammerspoon](https://github.com/LimEunSeop/my-hammerspoon-config)
@@ -58,6 +69,8 @@
 준비중
 
 # BoilerPlates
+
+자동화에 대한 관심이 많습니다. 이 부분에 대해 꾸준히 고민해볼 생각인데 아직은 잘 모르겠네요. 프로젝트를 하고 경험을 쌓다보면 알게될 것이라 믿습니다. (이 섹션 나중에 다시 정리)
 
 ## Code Generator
 
