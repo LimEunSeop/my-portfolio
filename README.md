@@ -19,12 +19,12 @@
 
 배경지식이 부족한 새로운 기술을 학습할 때에는 TIL 챌린지를 통해 해당 기술에 온보딩 하는 편이며, 1일 1커밋의 소재로도 활용하고 있습니다.
 
-- [프로젝트 관리 공부](https://github.com/LimEunSeop/Project-Management-Info/blob/main/README.md)
 - [TDD 개발 방법론](https://github.com/LimEunSeop/TIL-TestCoding)
 - [React Framework - EUID](https://github.com/LimEunSeop/TIL-React-Framework)
 - [VanilaJS, ES6](https://github.com/LimEunSeop/Javascript-Book)
 - [Front-end Practices](https://codepen.io/collection/XBRdVK)
 - [생활코딩 Machine Learning 야학](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak)
+- [프로젝트 관리 공부](https://github.com/LimEunSeop/Project-Management-Info/blob/main/README.md)
 
 ## Blog
 
