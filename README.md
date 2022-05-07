@@ -23,7 +23,8 @@
 - [VanilaJS, ES6](https://github.com/LimEunSeop/Javascript-Book)
 - [Front-end Practices](https://codepen.io/collection/XBRdVK)
 - [생활코딩 Machine Learning 야학](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak)
-- [프로젝트 관리 공부](https://github.com/LimEunSeop/Project-Management-Info/blob/main/README.md)
+- [프로젝트 관리 정보](https://github.com/LimEunSeop/Project-Management-Info/blob/main/README.md)
+- [Airbnb 스타일 가이드](https://github.com/LimEunSeop/airbnb-style-guide)
 
 ## Blog
 
