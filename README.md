@@ -1,5 +1,4 @@
 <a href="https://github.com/LimEunSeop/my-resume">![resume](https://img.shields.io/badge/resume-github.com%2FLimEunSeop%2Fmy--resume-CA0126.svg)</a>
-<a href="https://velog.io/@seop">![Blog](https://img.shields.io/badge/blog-velog.io/@seop-303030.svg)</a>
 
 # Studies
 
