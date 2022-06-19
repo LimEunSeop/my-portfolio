@@ -1,7 +1,7 @@
 <a href="https://github.com/LimEunSeop/my-resume">![resume](https://img.shields.io/badge/resume-github.com%2FLimEunSeop%2Fmy--resume-CA0126.svg)</a>
 
 # Studies
-
+<!-- 
 ## Read Documentations (Entire Concepts or Guides)
 
 짜투리 시간을 활용하여 지속적으로 배경지식의 Range를 넓혀가고 있습니다.
@@ -11,7 +11,7 @@
 - [Recoil](https://recoiljs.org/docs/introduction/motivation)
 - [JS 콜백, Promise, async-await](https://ko.javascript.info/async)
 - [Cypress](https://docs.cypress.io/guides/overview/why-cypress)
-- [MobX(기본학습)](https://mobx.js.org/README.html)
+- [MobX(기본학습)](https://mobx.js.org/README.html) -->
 
 ## TIL
 
