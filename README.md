@@ -17,7 +17,6 @@
 
 배경지식이 부족한 새로운 기술을 학습할 때에는 TIL 챌린지를 통해 해당 기술에 온보딩 하는 편이며, 1일 1커밋의 소재로도 활용하고 있습니다.
 
-- [React Typescript 패턴 공부](https://github.com/LimEunSeop/TIL-React-Typescript-Pattern)
 - [TDD 개발 방법론](https://github.com/LimEunSeop/TIL-TestCoding)
 - [React Framework - EUID](https://github.com/LimEunSeop/TIL-React-Framework)
 - [VanilaJS, ES6](https://github.com/LimEunSeop/Javascript-Book)
