@@ -1,3 +1,9 @@
+# 이 문서는 Outdated 됐습니다.
+
+아카이빙 용으로 남겨둡니다.
+
+모든 경력은 https://www.silverflame.dev/careers 에 집중되도록 설계하고 있습니다.
+
 <a href="https://github.com/LimEunSeop/my-resume">![resume](https://img.shields.io/badge/resume-github.com%2FLimEunSeop%2Fmy--resume-CA0126.svg)</a>
 
 ## 공부기록
